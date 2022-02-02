@@ -1,0 +1,30 @@
+
+
+body{
+  margin: auto;
+  text-align: center;
+  width: 900px;
+  background-color:  silver;
+  color: yellow;
+  font-family: ,monospace;
+
+
+}
+h1{ font-family:serif;
+  text-align: center;
+  text-decoration: underline;
+
+}
+
+
+.special {
+  background-color: black ;
+
+}
+p {
+  background-color: gold;
+  color: slateblue;
+  width: 900px;
+  margin: auto;
+
+}

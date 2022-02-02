@@ -1,0 +1,42 @@
+header {
+
+  background-color: red;
+
+}
+
+main{
+
+
+
+}
+section{
+  overflow: auto;
+  width: 85%;
+  box-sizing: border-box;
+}
+
+header,main{
+  overflow: auto;
+}
+
+nav {
+  display: flex;
+  flex-direction: column;
+  float: right;
+  background-color: purple;
+  width: 15%;
+
+}
+
+nav a {
+  background-color: blue;
+  color: red;
+  padding: 1em;
+  margin: 1em;
+
+  transition: background-color 0.7s;
+}
+
+nav a:hover {
+  background-color: pink;
+}
